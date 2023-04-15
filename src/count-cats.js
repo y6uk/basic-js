@@ -37,8 +37,7 @@ function countCats(matrix) {
       }   
     }
   }
-  // return totalCats
-  return columnCount
+  return totalCats
 }
 
 module.exports = {

@@ -35,7 +35,7 @@ function createDreamTeam(members) {
   return res.join('')
 }
 
-// console.log(createDreamTeam(members))
+
 
 module.exports = {
   createDreamTeam
