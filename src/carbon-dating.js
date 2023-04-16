@@ -25,7 +25,7 @@ function dateSample(/* sampleActivity */) {
   if(typeof sampleActivity !== 'number') {
     return false
   } else {
-    return 'zbs'
+    return ''
   }
   Math.ceil()
 }
